@@ -60,12 +60,12 @@ def process_request(user_input, current_contract):
         # Call the OpenAI API
         api_start_time = time.time()
         response = client.chat.completions.create(
-            model="gpt-4o-mini",
+            model="gpt-3.5-turbo",
             messages=[
                 {"role": "system", "content": system_prompt},
                 {"role": "user", "content": user_prompt}
             ],
-            temperature=0.3,  # Lower temperature for more precise responses
+            temperature=0.1,  # Lower temperature for more precise responses
             max_tokens=4000,  # Set an appropriate limit
         )
         api_duration = time.time() - api_start_time

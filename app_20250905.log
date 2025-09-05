@@ -1,0 +1,139 @@
+2025-09-05 12:15:58,829 - contract_generator - INFO - Environment variables loaded
+2025-09-05 12:15:58,830 - contract_generator - INFO - New session started with ID: e82ea1f3-8388-4a75-a4f4-a707b6578cfb
+2025-09-05 12:15:58,850 - contract_generator - INFO - Streamlit page configured
+2025-09-05 12:15:58,851 - contract_generator - INFO - App main function called - Session: e82ea1f3-8388-4a75-a4f4-a707b6578cfb
+2025-09-05 12:16:04,228 - contract_generator - INFO - Environment variables loaded
+2025-09-05 12:16:04,229 - contract_generator - INFO - Streamlit page configured
+2025-09-05 12:16:04,229 - contract_generator - INFO - App main function called - Session: e82ea1f3-8388-4a75-a4f4-a707b6578cfb
+2025-09-05 12:16:05,573 - contract_generator - INFO - Environment variables loaded
+2025-09-05 12:16:05,574 - contract_generator - INFO - Streamlit page configured
+2025-09-05 12:16:05,574 - contract_generator - INFO - App main function called - Session: e82ea1f3-8388-4a75-a4f4-a707b6578cfb
+2025-09-05 12:16:05,576 - contract_generator - INFO - User selected contract type: Service Agreement
+2025-09-05 12:16:05,577 - contract_generator - INFO - Template loaded for: Service Agreement
+2025-09-05 12:16:05,603 - contract_generator - INFO - Environment variables loaded
+2025-09-05 12:16:05,604 - contract_generator - INFO - Streamlit page configured
+2025-09-05 12:16:05,604 - contract_generator - INFO - App main function called - Session: e82ea1f3-8388-4a75-a4f4-a707b6578cfb
+2025-09-05 12:16:05,606 - contract_generator.docx_converter - INFO - Starting DOCX conversion
+2025-09-05 12:16:05,636 - contract_generator.docx_converter - INFO - Document structure: 10 headings, 92 paragraphs, 15 list items
+2025-09-05 12:16:05,642 - contract_generator.docx_converter - INFO - DOCX conversion completed in 0.04 seconds
+2025-09-05 12:16:15,960 - contract_generator - INFO - Environment variables loaded
+2025-09-05 12:16:15,960 - contract_generator - INFO - Streamlit page configured
+2025-09-05 12:16:15,960 - contract_generator - INFO - App main function called - Session: e82ea1f3-8388-4a75-a4f4-a707b6578cfb
+2025-09-05 12:16:15,964 - contract_generator.docx_converter - INFO - Starting DOCX conversion
+2025-09-05 12:16:15,996 - contract_generator.docx_converter - INFO - Document structure: 10 headings, 92 paragraphs, 15 list items
+2025-09-05 12:16:16,003 - contract_generator.docx_converter - INFO - DOCX conversion completed in 0.04 seconds
+2025-09-05 12:16:16,036 - contract_generator - INFO - Environment variables loaded
+2025-09-05 12:16:16,036 - contract_generator - INFO - Streamlit page configured
+2025-09-05 12:16:16,036 - contract_generator - INFO - App main function called - Session: e82ea1f3-8388-4a75-a4f4-a707b6578cfb
+2025-09-05 12:16:16,038 - contract_generator.docx_converter - INFO - Starting DOCX conversion
+2025-09-05 12:16:16,059 - contract_generator.docx_converter - INFO - Document structure: 10 headings, 92 paragraphs, 15 list items
+2025-09-05 12:16:16,065 - contract_generator.docx_converter - INFO - DOCX conversion completed in 0.03 seconds
+2025-09-05 12:16:16,066 - contract_generator - INFO - User sent modification request: client_name as Parth...
+2025-09-05 12:16:16,066 - contract_generator - INFO - Calling AI assistant for contract modification
+2025-09-05 12:16:16,066 - contract_generator.ai_assistant - INFO - Processing contract modification request: client_name as Parth...
+2025-09-05 12:16:41,775 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-05 12:16:41,789 - contract_generator.ai_assistant - INFO - OpenAI API call completed in 25.72 seconds
+2025-09-05 12:16:41,790 - contract_generator.ai_assistant - INFO - Successfully parsed response with expected format
+2025-09-05 12:16:41,790 - contract_generator.ai_assistant - INFO - Contract modified: -21 character change
+2025-09-05 12:16:41,790 - contract_generator.ai_assistant - INFO - Request processing completed in 25.72 seconds
+2025-09-05 12:16:41,790 - contract_generator - INFO - AI processing completed in 25.72 seconds
+2025-09-05 12:16:41,790 - contract_generator - INFO - Contract text updated with AI modifications
+2025-09-05 12:16:41,821 - contract_generator - INFO - Environment variables loaded
+2025-09-05 12:16:41,822 - contract_generator - INFO - Streamlit page configured
+2025-09-05 12:16:41,822 - contract_generator - INFO - App main function called - Session: e82ea1f3-8388-4a75-a4f4-a707b6578cfb
+2025-09-05 12:16:41,823 - contract_generator.docx_converter - INFO - Starting DOCX conversion
+2025-09-05 12:16:41,845 - contract_generator.docx_converter - INFO - Document structure: 10 headings, 92 paragraphs, 15 list items
+2025-09-05 12:16:41,851 - contract_generator.docx_converter - INFO - DOCX conversion completed in 0.03 seconds
+2025-09-05 12:22:54,510 - contract_generator - INFO - Environment variables loaded
+2025-09-05 12:22:54,510 - contract_generator - INFO - New session started with ID: 21dd07c4-ebe9-4125-9dec-fca85afc09ff
+2025-09-05 12:22:54,532 - contract_generator - INFO - Streamlit page configured
+2025-09-05 12:22:54,532 - contract_generator - INFO - App main function called - Session: 21dd07c4-ebe9-4125-9dec-fca85afc09ff
+2025-09-05 12:22:57,936 - contract_generator - INFO - Environment variables loaded
+2025-09-05 12:22:57,937 - contract_generator - INFO - Streamlit page configured
+2025-09-05 12:22:57,938 - contract_generator - INFO - App main function called - Session: 21dd07c4-ebe9-4125-9dec-fca85afc09ff
+2025-09-05 12:22:57,939 - contract_generator - INFO - User selected contract type: Partnership Dissolution Deed
+2025-09-05 12:22:57,940 - contract_generator - INFO - Template loaded for: Partnership Dissolution Deed
+2025-09-05 12:22:57,966 - contract_generator - INFO - Environment variables loaded
+2025-09-05 12:22:57,966 - contract_generator - INFO - Streamlit page configured
+2025-09-05 12:22:57,966 - contract_generator - INFO - App main function called - Session: 21dd07c4-ebe9-4125-9dec-fca85afc09ff
+2025-09-05 12:22:57,969 - contract_generator.docx_converter - INFO - Starting DOCX conversion
+2025-09-05 12:22:57,991 - contract_generator.docx_converter - INFO - Document structure: 7 headings, 43 paragraphs, 11 list items
+2025-09-05 12:22:57,997 - contract_generator.docx_converter - INFO - DOCX conversion completed in 0.03 seconds
+2025-09-05 12:23:04,400 - contract_generator - INFO - Environment variables loaded
+2025-09-05 12:23:04,400 - contract_generator - INFO - Streamlit page configured
+2025-09-05 12:23:04,401 - contract_generator - INFO - App main function called - Session: 21dd07c4-ebe9-4125-9dec-fca85afc09ff
+2025-09-05 12:23:04,404 - contract_generator.docx_converter - INFO - Starting DOCX conversion
+2025-09-05 12:23:04,431 - contract_generator.docx_converter - INFO - Document structure: 7 headings, 43 paragraphs, 11 list items
+2025-09-05 12:23:04,439 - contract_generator.docx_converter - INFO - DOCX conversion completed in 0.04 seconds
+2025-09-05 12:23:04,490 - contract_generator - INFO - Environment variables loaded
+2025-09-05 12:23:04,491 - contract_generator - INFO - Streamlit page configured
+2025-09-05 12:23:04,491 - contract_generator - INFO - App main function called - Session: 21dd07c4-ebe9-4125-9dec-fca85afc09ff
+2025-09-05 12:23:04,492 - contract_generator.docx_converter - INFO - Starting DOCX conversion
+2025-09-05 12:23:04,511 - contract_generator.docx_converter - INFO - Document structure: 7 headings, 43 paragraphs, 11 list items
+2025-09-05 12:23:04,516 - contract_generator.docx_converter - INFO - DOCX conversion completed in 0.02 seconds
+2025-09-05 12:23:04,517 - contract_generator - INFO - User sent modification request: name to Parth...
+2025-09-05 12:23:04,518 - contract_generator - INFO - Calling AI assistant for contract modification
+2025-09-05 12:23:04,518 - contract_generator.ai_assistant - INFO - Processing contract modification request: name to Parth...
+2025-09-05 12:23:12,390 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-05 12:23:12,412 - contract_generator.ai_assistant - INFO - OpenAI API call completed in 7.89 seconds
+2025-09-05 12:23:12,412 - contract_generator.ai_assistant - INFO - Successfully parsed response with expected format
+2025-09-05 12:23:12,412 - contract_generator.ai_assistant - INFO - Contract modified: -17 character change
+2025-09-05 12:23:12,412 - contract_generator.ai_assistant - INFO - Request processing completed in 7.89 seconds
+2025-09-05 12:23:12,412 - contract_generator - INFO - AI processing completed in 7.89 seconds
+2025-09-05 12:23:12,413 - contract_generator - INFO - Contract text updated with AI modifications
+2025-09-05 12:23:12,440 - contract_generator - INFO - Environment variables loaded
+2025-09-05 12:23:12,440 - contract_generator - INFO - Streamlit page configured
+2025-09-05 12:23:12,441 - contract_generator - INFO - App main function called - Session: 21dd07c4-ebe9-4125-9dec-fca85afc09ff
+2025-09-05 12:23:12,442 - contract_generator.docx_converter - INFO - Starting DOCX conversion
+2025-09-05 12:23:12,470 - contract_generator.docx_converter - INFO - Document structure: 7 headings, 43 paragraphs, 11 list items
+2025-09-05 12:23:12,480 - contract_generator.docx_converter - INFO - DOCX conversion completed in 0.04 seconds
+2025-09-05 12:23:41,565 - contract_generator - INFO - Environment variables loaded
+2025-09-05 12:23:41,566 - contract_generator - INFO - Streamlit page configured
+2025-09-05 12:23:41,566 - contract_generator - INFO - App main function called - Session: 21dd07c4-ebe9-4125-9dec-fca85afc09ff
+2025-09-05 12:23:41,569 - contract_generator.docx_converter - INFO - Starting DOCX conversion
+2025-09-05 12:23:41,592 - contract_generator.docx_converter - INFO - Document structure: 7 headings, 43 paragraphs, 11 list items
+2025-09-05 12:23:41,599 - contract_generator.docx_converter - INFO - DOCX conversion completed in 0.03 seconds
+2025-09-05 12:23:41,600 - contract_generator - INFO - User sent modification request: name to Parth...
+2025-09-05 12:23:41,600 - contract_generator - INFO - Calling AI assistant for contract modification
+2025-09-05 12:23:41,601 - contract_generator.ai_assistant - INFO - Processing contract modification request: name to Parth...
+2025-09-05 12:23:47,234 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-05 12:23:47,240 - contract_generator.ai_assistant - INFO - OpenAI API call completed in 5.64 seconds
+2025-09-05 12:23:47,241 - contract_generator.ai_assistant - INFO - Successfully parsed response with expected format
+2025-09-05 12:23:47,241 - contract_generator.ai_assistant - INFO - Contract modified: -32 character change
+2025-09-05 12:23:47,241 - contract_generator.ai_assistant - INFO - Request processing completed in 5.64 seconds
+2025-09-05 12:23:47,241 - contract_generator - INFO - AI processing completed in 5.64 seconds
+2025-09-05 12:23:47,242 - contract_generator - INFO - Contract text updated with AI modifications
+2025-09-05 12:23:47,286 - contract_generator - INFO - Environment variables loaded
+2025-09-05 12:23:47,286 - contract_generator - INFO - Streamlit page configured
+2025-09-05 12:23:47,286 - contract_generator - INFO - App main function called - Session: 21dd07c4-ebe9-4125-9dec-fca85afc09ff
+2025-09-05 12:23:47,288 - contract_generator.docx_converter - INFO - Starting DOCX conversion
+2025-09-05 12:23:47,306 - contract_generator.docx_converter - INFO - Document structure: 7 headings, 43 paragraphs, 11 list items
+2025-09-05 12:23:47,312 - contract_generator.docx_converter - INFO - DOCX conversion completed in 0.02 seconds
+2025-09-05 12:24:04,328 - contract_generator - INFO - Environment variables loaded
+2025-09-05 12:24:04,329 - contract_generator - INFO - Streamlit page configured
+2025-09-05 12:24:04,329 - contract_generator - INFO - App main function called - Session: 21dd07c4-ebe9-4125-9dec-fca85afc09ff
+2025-09-05 12:24:04,332 - contract_generator.docx_converter - INFO - Starting DOCX conversion
+2025-09-05 12:24:04,359 - contract_generator.docx_converter - INFO - Document structure: 7 headings, 43 paragraphs, 11 list items
+2025-09-05 12:24:04,367 - contract_generator.docx_converter - INFO - DOCX conversion completed in 0.03 seconds
+2025-09-05 12:24:04,441 - contract_generator - INFO - Environment variables loaded
+2025-09-05 12:24:04,441 - contract_generator - INFO - Streamlit page configured
+2025-09-05 12:24:04,441 - contract_generator - INFO - App main function called - Session: 21dd07c4-ebe9-4125-9dec-fca85afc09ff
+2025-09-05 12:24:04,443 - contract_generator.docx_converter - INFO - Starting DOCX conversion
+2025-09-05 12:24:04,461 - contract_generator.docx_converter - INFO - Document structure: 7 headings, 43 paragraphs, 11 list items
+2025-09-05 12:24:04,466 - contract_generator.docx_converter - INFO - DOCX conversion completed in 0.02 seconds
+2025-09-05 12:24:04,467 - contract_generator - INFO - User sent modification request: name of partner takign asstes to Rohan...
+2025-09-05 12:24:04,468 - contract_generator - INFO - Calling AI assistant for contract modification
+2025-09-05 12:24:04,468 - contract_generator.ai_assistant - INFO - Processing contract modification request: name of partner takign asstes to Rohan...
+2025-09-05 12:24:10,310 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-05 12:24:10,314 - contract_generator.ai_assistant - INFO - OpenAI API call completed in 5.85 seconds
+2025-09-05 12:24:10,314 - contract_generator.ai_assistant - INFO - Successfully parsed response with expected format
+2025-09-05 12:24:10,314 - contract_generator.ai_assistant - INFO - Contract modified: -28 character change
+2025-09-05 12:24:10,315 - contract_generator.ai_assistant - INFO - Request processing completed in 5.85 seconds
+2025-09-05 12:24:10,315 - contract_generator - INFO - AI processing completed in 5.85 seconds
+2025-09-05 12:24:10,316 - contract_generator - INFO - Contract text updated with AI modifications
+2025-09-05 12:24:10,350 - contract_generator - INFO - Environment variables loaded
+2025-09-05 12:24:10,350 - contract_generator - INFO - Streamlit page configured
+2025-09-05 12:24:10,350 - contract_generator - INFO - App main function called - Session: 21dd07c4-ebe9-4125-9dec-fca85afc09ff
+2025-09-05 12:24:10,352 - contract_generator.docx_converter - INFO - Starting DOCX conversion
+2025-09-05 12:24:10,371 - contract_generator.docx_converter - INFO - Document structure: 7 headings, 43 paragraphs, 11 list items
+2025-09-05 12:24:10,376 - contract_generator.docx_converter - INFO - DOCX conversion completed in 0.02 seconds
